@@ -1,0 +1,51 @@
+.appointment .section_tittle {
+    text-align: center;
+    margin-bottom:1.5cm;
+}
+
+.appointment .container-fluid {
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #f1f7fd;
+}
+
+.appointment .section_tittle h2 {
+    color: #2c4964;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.appointment .section_tittle h2:hover {
+    text-decoration: underline;
+}
+.appointment .section_tittle p{
+justify-content: center;
+margin-left:15%;
+margin-right: 15%;
+
+}
+.appointment .form-group{
+    padding-bottom: 8px;
+    border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+  padding: 10px !important;
+}
+.appointment textarea{
+    padding: 10px;
+}
+.appointment button{
+    margin: 10px;
+    background: #1977cc;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+.appointment button:hover{
+    background: #1c84e3;
+}

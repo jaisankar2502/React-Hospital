@@ -1,0 +1,53 @@
+
+.btnposition{
+    margin-left: 20px;
+  }
+  .mx-5 {
+    margin-right: 63rem!important;
+    margin-left: 83rem!important;
+  }
+  .float{
+      position:fixed;
+      width:60px;
+      height:60px;
+      bottom:40px;
+      right:40px;
+    padding: 10px;
+      background-color:#20c997;
+      color:#FFF;
+      border-radius:50px;
+      text-align:center;
+      box-shadow: 2px 2px 3px #999;
+      z-index:10;
+    
+  }
+  
+  .my-float{
+      margin-top:22px;
+  }
+  .float2{
+      position:fixed;
+      width:60px;
+      height:60px;
+      bottom:130px;
+      right:40px;
+    padding: 10px;
+    color:#FFF;
+      background-color:#ff7851;
+      border-radius:50px;
+      text-align:center;
+      box-shadow: 2px 2px 3px #999;
+    font-size: small;
+    z-index:10;
+  }
+  .icon-center {
+    display: block;
+    margin-top: 17px;
+  }
+  .carousel-item{
+      height: 500px;
+      width: 100%;
+      object-fit:contain;
+      background-size:auto;
+  }
+  

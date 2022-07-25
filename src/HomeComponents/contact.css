@@ -1,0 +1,115 @@
+.contacthome .contact .info {
+    width: 100%;
+    background: #fff;
+  }
+  .contacthome .contact .info i {
+    font-size: 20px;
+    color: #1977cc;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #d6e9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }
+  .contacthome .contact .info h4 {
+    padding: 0 0 0 60px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #2c4964;
+  }
+  .contacthome .contact .info p {
+    padding: 0 0 0 60px;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #4b7dab;
+  }
+  .contacthome .contact .info .email, .contact .info .phone {
+    margin-top: 40px;
+  }
+  .contacthome .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+    background: #1977cc;
+    color: #fff;
+  }
+  
+  .contacthome .contact.form-group {
+    padding-bottom: 8px;
+  }
+  .contacthome .contact input,textarea {
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
+  .contacthome .contact .php-email-form input {
+    height: 44px;
+  }
+  .contacthome .contact .php-email-form textarea {
+    padding: 10px 12px;
+  }
+
+  .contacthome .section-title {
+    text-align: center;
+   
+  }
+  .contacthome .section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 56px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    color: #2c4964;
+  }
+  .contacthome .section-title p {
+    margin-top:.5px;
+
+  }
+  .contacthome button{
+    margin: 10px;
+    background: #1977cc;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+.contacthome button:hover{
+    background: #1c84e3;
+}
+.contacthome h2{
+    text-decoration: none;
+
+}
+.contacthome h2:hover{
+    text-decoration: underline;
+}
+.contacthome .container{
+    margin-top:10px;
+}
+
+.info i{
+    background-color: #176db8;
+    border-radius: 50px;
+    color: antiquewhite;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+    display: inline-flex;
+    align-items: center;
+}
+.info i:hover{
+
+    background: #42a0f3;
+    color: #fff;
+
+}
+.iframe{
+    border:0;
+     width: 100%; 
+     height: 350px;
+}

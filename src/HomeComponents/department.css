@@ -1,0 +1,26 @@
+main{
+    margin: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.section-title {
+    text-align: center;
+    margin-bottom:1.5cm;
+}
+.section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #2c4964;
+  }
+          
+.uderline h2{ text-decoration: none; }
+.uderline h2:hover { text-decoration:underline; }
+.nav-link {
+    display: block;
+    padding: 0.5rem 7rem;
+    color: #0d6efd;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
